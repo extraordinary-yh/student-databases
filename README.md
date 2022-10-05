@@ -1,3 +1,3 @@
-# calculator
+# Student Database
 
-This repository implements a working calculator in Java, C and C++. The repository built multiple data-sturctures to back calculator operations, like linked lists, stacks, hashtables, and balanced binary search trees. The project summarizes my work in UCSD's Fall 2019 CSE12. 
+This repository implements a student database where you could perform insert, delete look-up for a given student and print the whole database. The project constructed polimorphic generic container based data structures like linked-list, hash table and balanced binary search tree to store student information. All code are implemented in Java and C.
