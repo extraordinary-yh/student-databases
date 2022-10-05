@@ -1,10 +1,6 @@
 #ifndef BASE_H
 #define BASE_H
 
-/* DO NOT CHANGE:  This file is used in evaluation 
- * Changing function signatures will result in a 25% deduction.
- * */
-
 #include <iostream>
 using namespace std;
 
